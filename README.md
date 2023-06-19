@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Data Analyst from India
+I am a Data Analyst | Data Scientist from India
 - 🔭 Working on multiple projects on Data Science and Analytics
 - 🌱 Learning more on analysis and visualization tools
 <!--
