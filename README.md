@@ -73,11 +73,11 @@ CONNECT WITH ME:
  
 Total Time: 9 hrs 45 mins
 Python                         4 hrs 30 mins   █████████████▓░░░░░░░░░░░   54.48 %
-Power BI                         2 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   31.73 %
-Tableau                           1 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-SQL                      30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-Competitive Programming     1  hrs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-R-language                        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Power BI                       2 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   31.73 %
+Tableau                        1 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+SQL                            30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Competitive Programming        1  hrs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+R-language                     15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
    
 [twitter]:https://twitter.com/RishabDekate
