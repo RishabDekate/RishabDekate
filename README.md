@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am a Data Analyst from India
+- 🔭 Working on multiple projects on Data Science and Analytics
+- 🌱 Learning more on analysis and visualization tools
 <!--
 **RishabDekate/RishabDekate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
