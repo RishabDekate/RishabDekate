@@ -47,10 +47,7 @@ CONNECT WITH ME:
 
 <br>
   <br>
- <div>
-  <div>CODEWARS TITLE:</div>
-  <img alt="Codewars" src="https://www.codewars.com/users/SukoSen/badges/large">
- </div>
+ 
  
  
   [![GitHub Streak](https://streak-stats.demolab.com?user=RishabDekate&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
