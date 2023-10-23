@@ -3,7 +3,7 @@
 
 
 -  I recently started coding with different languages like Python, R, SQL.🧑‍💻
--  I have completed my bachelors in Mechanical Engineering.👨‍🎓
+-  I have completed my bachelors in Mechanical Engineering and currently pursuing data analysis career.👨‍🎓
 -  I started practicing at Kaggle for statistical analysis, and softwares like Tableau and Power BI for data visualization .🏆
 -  I’m currently making projects on data analysis for gaining expirence on my analytical skills.💯
 
